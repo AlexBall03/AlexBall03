@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello 👋
+## My name is Alex. I am a Front-end Web Developer.
+
 
 <!--
 **AlexBall03/AlexBall03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
