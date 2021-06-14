@@ -1,5 +1,5 @@
 # Hello 👋
-### My name is Alex. I am a Frontend Web Developer.
+### My name is Alex. I am a Student Frontend Web Developer.
 
 
 
