@@ -1,5 +1,5 @@
 # Hello 👋
-### My name is Alex. I am a Student Firmware Engineer.
+### My name is Alex. I am a Student Software Engineer!
 
 
 
