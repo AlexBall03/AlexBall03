@@ -1,5 +1,5 @@
 # Hello 👋
-### My name is Alex. I am a Student Software Engineer!
+### My name is Alex. I am a Student Web Developer / Software Engineer!
 
 
 
