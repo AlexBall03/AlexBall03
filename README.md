@@ -1,6 +1,6 @@
 # Hello 👋
-### My name is Alex. I am a Student Web Developer / Software Engineer!
-To see my Portfolio Projects, check out my Portfolio organization (https://github.com/AlexBall03-Portfolio).
+### My name is Alex and I am a Frontend Software Engineer!
+Checkout my Portfolio at https://alexballportfolio.dev
 
 
 <!--
