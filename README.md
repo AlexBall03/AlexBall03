@@ -4,14 +4,14 @@
 
 Dedicated and motivated professional with a background in Software Engineering.
 A highly motivated learner who enjoys solving problems and getting big things done!
-Proficient in web development technologies such as HTML, CSS, JavaScript, and React.
+Proficient in web development technologies such as **HTML, CSS, JavaScript/TypeScript,** and **React.js/Next.js**. <br />
 Other technologies include Java, C#/.Net, Visual Basic, and Python.
 
 <br>
 
-Contact me via **email** at: alexanderdball03@gmail.com <br>
+Contact me via **email** at: alexanderdball03@gmail.com <br />
 
-Follow me on **LinkedIn** at: https://www.linkedin.com/in/alexball03/ <br>
+Follow me on **LinkedIn** at: https://www.linkedin.com/in/alexball03/ <br />
 
 Checkout my **Portfolio** at: https://alexballportfolio.dev
 
