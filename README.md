@@ -5,7 +5,7 @@
 Dedicated and motivated professional with a background in Software Engineering.
 A highly motivated learner who enjoys solving problems and getting big things done!
 Proficient in web development technologies such as **HTML, CSS, JavaScript/TypeScript,** and **React.js/Next.js**. <br />
-Other technologies include Java, C#/.Net, Visual Basic, and Python.
+Other technologies include Java, C#, Visual Basic, and Python.
 
 <br>
 
