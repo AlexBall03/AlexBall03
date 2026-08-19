@@ -10,7 +10,7 @@ Other technologies include **Python**, **Java**, **C#**, and **Visual Basic**.
 
 <hr>
 
-Contact me via **Email** at: alexanderdball03@gmail.com <br />
+Contact me via **Email** at: contact@alexball.dev <br />
 
 Follow me on **LinkedIn** at: https://www.linkedin.com/in/alexball03/ <br />
 
