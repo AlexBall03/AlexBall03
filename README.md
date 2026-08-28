@@ -14,7 +14,7 @@ Contact me via **Email** at: contact@alexball.dev <br />
 
 Follow me on **LinkedIn** at: https://www.linkedin.com/in/alexball03/ <br />
 
-Checkout my **Portfolio** at: https://alexballportfolio.dev
+Checkout my **Portfolio** at: https://alexball.dev
 
 
 <!--
